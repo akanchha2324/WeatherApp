@@ -17,4 +17,4 @@ Contributions are welcome! Please follow these guidelines:
 ## Credits
 
 - Weather data provided by [OpenWeather](https://openweathermap.org/)
-- Icons from [FontAwesome](https://fontawesome.com/)
+
